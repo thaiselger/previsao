@@ -1,0 +1,6 @@
+a = parseInt(prompt ("Digite a previsão do tempo pra hoje a noite"));
+if (a <10){
+  alert ("Vai dormir cmg!");
+}else{
+  alert("Vai dormir cmg tb, azar");
+}
